@@ -7,8 +7,8 @@ Requests
 Pushbullet (pip install pushbullet.py)  
 
 ### External Requirements
-Etherscan Account and API Key  
-Pushbullet Account and API Key  
+Etherscan Account and API Key ------> (https://etherscan.io/)  
+Pushbullet Account and API Key -----> (https://www.pushbullet.com/)  
 Pushbullet App for your device  
 
 #### Use the same account you used to create the API key on the device where you want to receive notifications.
